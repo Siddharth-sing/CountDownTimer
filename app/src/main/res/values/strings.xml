@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StopWatchTimerActivity</string>
+    <string name="setting">Setting</string>
+</resources>
