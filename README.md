@@ -10,7 +10,7 @@ Key Features used :
 4. Background working.
  
   -> On start :
-      <img src"TimerImages/1.png">
+      <img src="TimerImages/1.png">
   -> we can set the time length :
       ![](TimerImages/2.png)
   -> Material progressbar :
