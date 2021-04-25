@@ -12,11 +12,11 @@ Key Features used :
   -> On start :
       <img src="TimerImages/1.png">
   -> we can set the time length :
-      ![TimerImages](2.png)
+      <img src="TimerImages/1.png">
   -> Material progressbar :
       ->Also the timer is active in background also
-      ![TimerImages](3.png)
-      ![TimerImages](4.png)
-      ![TimerImages](5.png)
+      <img src="TimerImages/1.png">
+      <img src="TimerImages/1.png">
+      <img src="TimerImages/1.png">
   -> On Completion :
-      ![TimerImages](6.png)
+      <img src="TimerImages/1.png">
