@@ -9,14 +9,6 @@ Key Features used :
 3. Dynamic floating action buttons.
 4. Background working.
  
-  -> On start :
-      <img src="TimerImages/1.png">
-  -> we can set the time length :
-      <img src="TimerImages/1.png">
-  -> Material progressbar :
-      ->Also the timer is active in background also
-      <img src="TimerImages/1.png">
-      <img src="TimerImages/1.png">
-      <img src="TimerImages/1.png">
-  -> On Completion :
-      <img src="TimerImages/1.png">
+  
+ <p> -> On start : <br/> <img src="TimerImages/1.png" alt = "https://github.com/Siddharth-sing/CountDownTimer/blob/main/TimerImages/1.png" width="300" height="500" > <br/> </p>
+  
